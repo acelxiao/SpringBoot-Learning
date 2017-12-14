@@ -8,7 +8,7 @@
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>Chapter2-1-1</name>
+	<name>profile-property</name>
 	<description></description>
 
 	<parent>

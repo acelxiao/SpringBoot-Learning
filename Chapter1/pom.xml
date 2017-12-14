@@ -8,7 +8,7 @@
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>Chapter1</name>
+	<name>hello</name>
 	<description>The first Spring Boot project</description>
 
 	<parent>
